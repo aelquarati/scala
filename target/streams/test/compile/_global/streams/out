@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file C:\Users\AnasELQUARATI\IdeaProjects\scala_project\project\target\.sbt-compilation-infos\scala_project-test\.sbt-idea-lock ...
+[error] C:\Users\AnasELQUARATI\IdeaProjects\scala_project\src\test\scala\exo6.scala:12:1: expected class or object definition
+[error] average(Iterator(5.2, 6.3, 2.2))
+[error] ^
+[error] one error found
+[debug] Releasing lock on file C:\Users\AnasELQUARATI\IdeaProjects\scala_project\project\target\.sbt-compilation-infos\scala_project-test\.sbt-idea-lock.

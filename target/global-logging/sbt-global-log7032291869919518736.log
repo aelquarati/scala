@@ -1,0 +1,11 @@
+[debug] > Exec(average(Iterator(5.2, 6.3, 2.2)), None, None)
+[error] Expected ID character
+[error] Not a valid command: average
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: average (similar: target, package, homepage)
+[error] average(Iterator(5.2, 6.3, 2.2))
+[error]        ^
+[debug] > Exec(idea-shell, None, None)
